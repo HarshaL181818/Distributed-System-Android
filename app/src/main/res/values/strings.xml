@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Distributed File Sharing</string>
+    <string name="qr_file_sharing">QR File Sharing</string>
+    <string name="upload_your_file">Upload Your File</string>
+    <string name="select_file">Select File</string>
+    <string name="generated_qr_code">Generated QR Code</string>
+    <string name="qr_image_desc">qr image desc</string>
+    <string name="show_qr">Show QR</string>
+    <string name="list_of_items_displayed">List of items displayed</string>
+    <string name="qr_code">QR Code</string>
+    <string name="file_id">File ID</string>
+    <string name="view_qr">View QR</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
